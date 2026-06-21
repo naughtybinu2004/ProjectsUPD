@@ -1,3 +1,4 @@
 {
-  "status": "active"
+  "status": "deactivated",
+  "message": "Demo period over. Full system price is 35,000 LKR. Balance pending: 15,000 LKR (Paid: 20,000 LKR). Please contact support to reactivate." 
 }
